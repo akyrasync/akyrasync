@@ -1,0 +1,7 @@
+{
+  "deployment_id": "AKYRA-PROD-0003",
+  "release_name": "@akyra/shipcore - Vercel / Netlify CI deploy layer",
+  "sync_metadata": {
+    "price_reference": 200.0
+  }
+}
